@@ -1,2 +1,2 @@
 # ex00
-Ejercicio ))
+Ejercicio 00
